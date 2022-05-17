@@ -1,0 +1,150 @@
+@charset "ISO-8859-1";
+.box h1{
+	font-size:60px;
+	margin-left:20px;
+}
+.box{
+	position:absolute;
+	left:25%;
+	top:15%;
+	padding:15px;
+	border:1px solid black;
+	width:750px;
+	height:550px;
+	 
+}
+.box a{
+	width:450px;
+	position:relative;
+	left:129px;
+	height:60px;
+	bottom:20px;
+	font-size:20px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+}
+.button{
+	font-size: 16px;	
+}
+.userform{
+	
+	border:1px solid black;
+	padding:10px;
+	width:400px;
+	position:absolute;
+	margin-left:35%;
+	margin-top:125px;	
+}
+#h1{
+	position:relative;
+	margin-left:570px;
+	top:130px;
+	
+}
+#alert{
+	color:red;
+	position:relative;
+	top:500px;
+	left:535px;
+}
+#alertsuccess{
+	color:green;
+	position:relative;
+	top:500px;
+	left:535px;
+	
+}
+#home{
+	color:red;
+	position:relative;
+	top:460px;
+	left:680px;
+}
+.good{
+	overflow:scroll;
+	
+}
+.userform label{
+	margin-left:40px;
+	margin-right:15px;
+}
+
+.form-group #Content{
+	overflow-y:auto;
+	width:380px;
+}
+.form-group #con{
+	margin-left:150px;
+	
+}
+.userform input {
+	margin-top:10px;
+	padding:5px;
+}
+.userform #label{
+	margin-left:150px;
+	}
+.datatable{
+	position:relative;
+	left:400px;
+	
+}
+.datatable table{
+	width:700px;
+	
+}
+#viewback{
+	position:relative;
+	left:400px;
+	
+}
+
+#contentview{
+	position :relative;
+	color:green;
+	left:600px;
+	
+}
+
+.updateform{
+	
+	border:1px solid black;
+	padding:10px;
+	width:400px;
+	position:absolute;
+	margin-left:35%;
+	margin-top:125px;	
+}
+.updateform label{
+	position: relative;
+	left:40px;
+	right:15px;
+}
+.updateform input{
+	position: relative;
+	left:60px;
+	
+	
+}
+#upsum{
+	position: relative;
+	width:20px;
+}
+#a{
+	position: relative;
+	bottom:33px;
+	left:135px;
+}
+#backup{
+	position :relative;
+	top:337px;
+	left:630px;
+}
+#h2{
+	position:relative;
+	margin-left:540px;
+	top:330px;
+	
+}
